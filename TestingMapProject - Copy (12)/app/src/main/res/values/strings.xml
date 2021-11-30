@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">IMOVE</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="heart_image_var5" tools:ignore="ReferenceType">@drawable/heart_black</string>
+    <string name="title_activity_walk_data">WalkData</string>
+    <string name="hello_please_fill_in_the_information_below_to_get_started">Hello! Please fill in the information below to get started~</string>
+
+
+    <!-- Strings used for fragments for navigation -
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string> -->
+</resources>
